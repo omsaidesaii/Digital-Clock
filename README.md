@@ -32,6 +32,6 @@ To get started with this project on your local machine:
 3. Open `index.html` in a web browser to see the digital clock in action.
 
 ## 📌 LIVE DEMO
-Check it out here (replace with your live demo link).
+Check it out here (https://digital-clock-wheat-nu.vercel.app/).
 
 
