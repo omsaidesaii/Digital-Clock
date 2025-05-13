@@ -1,9 +1,9 @@
 # 🎯 DIGITAL CLOCK
-A simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in a 24-hour format and updates every second.
+A simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in a 12-hour format and updates every second.
 
 ## 🚀 FEATURES
 - 📊 Real-time clock display.
-- ✅ 24-hour format (HH:MM:SS).
+- ✅ 12-hour format (HH:MM:SS).
 - ⚡ Updates every second.
 - 🎨 Clean & responsive UI with customizable styling.
 
