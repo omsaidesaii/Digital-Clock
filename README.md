@@ -14,7 +14,7 @@ A simple digital clock built using HTML, CSS, and JavaScript. It displays the cu
 
 ## 🔧 HOW TO USE
 1. Open the `index.html` file in any web browser.
-2. The digital clock will automatically start displaying the current time in 24-hour format.
+2. The digital clock will automatically start displaying the current time in 12-hour format.
 
 ### **CUSTOMIZATION**
 - Modify the `style.css` file to change the appearance of the clock.
